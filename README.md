@@ -62,6 +62,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-billing](screens/billing)
 - [screen-user-subscribed](screens/user-subscribed)
 - [screen-followers-list](screens/followers-list)
+- [screen-forgot-password](screens/forgot-password)
 
 # Getting started: Frontend
 
