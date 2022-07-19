@@ -60,6 +60,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-chat-listing](screens/chat-listing)
 - [screen-activity-feed](screens/activity-feed)
 - [screen-billing](screens/billing)
+- [screen-user-subscribed](screens/user-subscribed)
 
 # Getting started: Frontend
 

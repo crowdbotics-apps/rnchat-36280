@@ -1232,10 +1232,13 @@
 "@screens/activity-feed@file:./screens/activity-feed":
   version "1.0.0"
 
-"@screens/billing@file:./screens/billing/":
+"@screens/billing@file:./screens/billing":
   version "1.0.0"
 
 "@screens/chat-listing@file:./screens/chat-listing":
+  version "1.0.0"
+
+"@screens/user-subscribed@file:./screens/user-subscribed/":
   version "1.0.0"
 
 "@sideway/address@^4.1.3":

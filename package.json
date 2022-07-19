@@ -21,6 +21,7 @@
     "@screens/activity-feed": "file:./screens/activity-feed/",
     "@screens/billing": "file:./screens/billing/",
     "@screens/chat-listing": "file:./screens/chat-listing/",
+    "@screens/user-subscribed": "file:./screens/user-subscribed/",
     "axios": "^0.21.1",
     "react": "17.0.1",
     "react-native": "0.64.0",
