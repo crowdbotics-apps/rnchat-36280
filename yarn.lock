@@ -1229,7 +1229,10 @@
     redux-thunk "^2.4.1"
     reselect "^4.1.5"
 
-"@screens/activity-feed@file:./screens/activity-feed/":
+"@screens/activity-feed@file:./screens/activity-feed":
+  version "1.0.0"
+
+"@screens/billing@file:./screens/billing/":
   version "1.0.0"
 
 "@screens/chat-listing@file:./screens/chat-listing":

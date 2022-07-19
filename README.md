@@ -59,6 +59,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [react-native-app-menu](modules/app-menu)
 - [screen-chat-listing](screens/chat-listing)
 - [screen-activity-feed](screens/activity-feed)
+- [screen-billing](screens/billing)
 
 # Getting started: Frontend
 
