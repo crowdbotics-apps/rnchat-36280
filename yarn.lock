@@ -1238,7 +1238,10 @@
 "@screens/chat-listing@file:./screens/chat-listing":
   version "1.0.0"
 
-"@screens/user-subscribed@file:./screens/user-subscribed/":
+"@screens/followers-list@file:./screens/followers-list/":
+  version "1.0.0"
+
+"@screens/user-subscribed@file:./screens/user-subscribed":
   version "1.0.0"
 
 "@sideway/address@^4.1.3":
