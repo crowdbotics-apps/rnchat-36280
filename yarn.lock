@@ -1244,10 +1244,13 @@
 "@screens/forgot-password@file:./screens/forgot-password":
   version "1.0.0"
 
-"@screens/login@file:./screens/login/":
+"@screens/login@file:./screens/login":
   version "1.0.0"
 
 "@screens/user-subscribed@file:./screens/user-subscribed":
+  version "1.0.0"
+
+"@screens/wallet@file:./screens/wallet/":
   version "1.0.0"
 
 "@sideway/address@^4.1.3":

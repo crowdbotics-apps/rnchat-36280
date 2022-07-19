@@ -25,6 +25,7 @@
     "@screens/forgot-password": "file:./screens/forgot-password/",
     "@screens/login": "file:./screens/login/",
     "@screens/user-subscribed": "file:./screens/user-subscribed/",
+    "@screens/wallet": "file:./screens/wallet/",
     "axios": "^0.21.1",
     "react": "17.0.1",
     "react-native": "0.64.0",
