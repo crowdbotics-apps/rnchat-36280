@@ -66,6 +66,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-login](screens/login)
 - [screen-wallet](screens/wallet)
 - [react-native-push-notifications](modules/push-notifications)
+- [screen-upload-media](screens/upload-media)
 
 # Getting started: Frontend
 

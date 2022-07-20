@@ -1016,7 +1016,7 @@
     react-native-emoji-selector "^0.2.0"
     react-native-keyboard-aware-scroll-view "^0.9.3"
 
-"@modules/push-notifications@file:./modules/push-notifications/":
+"@modules/push-notifications@file:./modules/push-notifications":
   version "1.0.0"
 
 "@react-native-community/cli-debugger-ui@^5.0.1":
@@ -1248,6 +1248,9 @@
   version "1.0.0"
 
 "@screens/login@file:./screens/login":
+  version "1.0.0"
+
+"@screens/upload-media@file:./screens/upload-media/":
   version "1.0.0"
 
 "@screens/user-subscribed@file:./screens/user-subscribed":

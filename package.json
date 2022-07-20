@@ -25,6 +25,7 @@
     "@screens/followers-list": "file:./screens/followers-list/",
     "@screens/forgot-password": "file:./screens/forgot-password/",
     "@screens/login": "file:./screens/login/",
+    "@screens/upload-media": "file:./screens/upload-media/",
     "@screens/user-subscribed": "file:./screens/user-subscribed/",
     "@screens/wallet": "file:./screens/wallet/",
     "axios": "^0.21.1",
